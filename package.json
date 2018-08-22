@@ -1,0 +1,23 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack_learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zikundream/webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zikundream/webpack/issues"
+  },
+  "homepage": "https://github.com/zikundream/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.17.0",
+    "webpack-cli": "^3.1.0"
+  }
+}
