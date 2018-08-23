@@ -1,1 +1,2 @@
-alert("我是webpack")
+console.log("我是webpack1")
+cons.log("jhajaj")
