@@ -4,7 +4,8 @@ const htmlPlugin = require("html-webpack-plugin");
 const extractTextPlugin = require("extract-text-webpack-plugin");
 const glob = require('glob');
 const PurifyCSSPlugin = require("purifycss-webpack");
-
+const entry = require("./webpack_config/entry_webpack.js");
+const $  =require("jquery");
 var website = {
     publicPath:"http://192.168.3.244:1718/"
 }
